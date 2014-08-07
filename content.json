@@ -1,1 +1,23 @@
-{}
+{
+    "background_data": {
+        "identification": {
+            "gender": {},
+            "district": {},
+            "deceased": {},
+            "country_of_origin_mother": {},
+            "country_of_origin_father": {},
+            "received_transplant": {},
+            "diagnosis_confirmed": {},
+            "niss": "1"
+        },
+        "diagnosis": {
+            "diagnosis": {
+                "selectedChoices": {}
+            },
+            "neonatal_screening_test": {}
+        },
+        "patient_code": 1,
+        "patient_code_old": 1,
+        "patient_code_new": 1
+    }
+}
