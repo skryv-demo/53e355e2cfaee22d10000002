@@ -42,6 +42,60 @@
         "patient_code": 1,
         "patient_code_old": 1,
         "patient_code_new": 1,
-        "sweat_test": {}
+        "sweat_test": {
+            "type_of_sweat_test": {},
+            "sweat_test_collected_by": {}
+        },
+        "genotype": {
+            "legacy_name": {
+                "chromosome_1_": {},
+                "t_status_1": {},
+                "chromosome_2": {},
+                "t_status_2": {}
+            },
+            "cdna_name": {
+                "chromosome_1_new_nomenclature": {},
+                "chromosome_2_new_nomenclature": {},
+                "t_status_1_new_nomenclature": {},
+                "t_status_2_new_nomenclature": {}
+            },
+            "protein_name": {
+                "chromosome_1_protein_name_": {},
+                "chromosome_2_protein_name_": {}
+            }
+        },
+        "nasal_transepithelial_potential_difference": {
+            "nasal_transeppotdiff": {}
+        }
+    },
+    "data_collection": {
+        "observation": {
+            "life__death": {
+                "patient_status": {}
+            },
+            "cause_of_death": {
+                "associated_with_cancer": {},
+                "associated_with_organ_transplantation": {},
+                "other_cause": {}
+            },
+            "last_consultation_of_the_year": {
+                "anthropometry": {},
+                "lung_function": {
+                    "executed": {},
+                    "fvc": 120,
+                    "fev1": 100
+                }
+            },
+            "the_best_lung_function_of_the_year": {
+                "date_of_best_lungfx": "Thu Aug 07 2014 00:00:00 GMT+0200 (CEST)",
+                "fvc": 100,
+                "fev1": 120
+            }
+        },
+        "microbiology": {
+            "microbiology_all_cultures_of_the_registration_year": {
+                "microbiology_executed_": {}
+            }
+        }
     }
 }
