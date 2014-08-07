@@ -28,7 +28,7 @@
             "height_father": 220,
             "order_in_the_family": 1,
             "height_mother_measured": true,
-            "birth_date": "Tue Apr 29 2008 00:00:00 GMT+0200 (CEST)"
+            "birth_date": "Tue Apr 01 2008 00:00:00 GMT+0200 (CEST)"
         },
         "diagnosis": {
             "diagnosis": {
@@ -41,6 +41,7 @@
         },
         "patient_code": 1,
         "patient_code_old": 1,
-        "patient_code_new": 1
+        "patient_code_new": 1,
+        "sweat_test": {}
     }
 }
