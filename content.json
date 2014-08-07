@@ -4,11 +4,23 @@
             "gender": {},
             "district": {},
             "deceased": {},
-            "country_of_origin_mother": {},
-            "country_of_origin_father": {},
-            "received_transplant": {},
-            "diagnosis_confirmed": {},
-            "niss": "1"
+            "country_of_origin_mother": {
+                "selectedChoice": "Belgium"
+            },
+            "country_of_origin_father": {
+                "selectedChoice": "Brazil"
+            },
+            "received_transplant": {
+                "selectedChoice": "No"
+            },
+            "diagnosis_confirmed": {
+                "selectedChoice": "No"
+            },
+            "niss": "1",
+            "height_mother": 130,
+            "height_father_measured": true,
+            "height_father": 220,
+            "order_in_the_family": 1
         },
         "diagnosis": {
             "diagnosis": {
