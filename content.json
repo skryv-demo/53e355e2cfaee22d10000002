@@ -1,9 +1,15 @@
 {
     "background_data": {
         "identification": {
-            "gender": {},
-            "district": {},
-            "deceased": {},
+            "gender": {
+                "selectedChoice": "Male"
+            },
+            "district": {
+                "selectedChoice": "Antwerpen"
+            },
+            "deceased": {
+                "selectedChoice": "Yes"
+            },
             "country_of_origin_mother": {
                 "selectedChoice": "Belgium"
             },
@@ -20,13 +26,17 @@
             "height_mother": 130,
             "height_father_measured": true,
             "height_father": 220,
-            "order_in_the_family": 1
+            "order_in_the_family": 1,
+            "height_mother_measured": true
         },
         "diagnosis": {
             "diagnosis": {
                 "selectedChoices": {}
             },
-            "neonatal_screening_test": {}
+            "neonatal_screening_test": {
+                "selectedChoice": "Unknown"
+            },
+            "date_of_clinical_diagnosis": "Wed Apr 30 2014 00:00:00 GMT+0200 (CEST)"
         },
         "patient_code": 1,
         "patient_code_old": 1,
